@@ -1,0 +1,15 @@
+Neis API Key : e1e65ed66ff54f03a10be7c0e716018a
+
+
+BackEnd Docs
+- 구름IDE : https://goor.me/e93hL
+- url : https://peopleofmeal-vyvzr.run.goorm.io/
+
+- 급식 별점 주기
+	- /score/:spk?score=5
+	- spk : 학교 코드
+
+- 학교 평점 보기
+	- /score/schoolInfo/:epk/:spk
+	- epk : 교육청 코드
+	- spk : 학교 코드

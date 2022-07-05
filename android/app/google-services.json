@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863396795016",
+    "project_id": "people-of-meal",
+    "storage_bucket": "people-of-meal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863396795016:android:f776855152ed1ec080853d",
+        "android_client_info": {
+          "package_name": "com.example.people_of_meal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863396795016-evajbbmjuns0uai32jeikpe4q58laplo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlcK4vSyWsZvuf_sCUKGwXziixf70VnyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863396795016-evajbbmjuns0uai32jeikpe4q58laplo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
